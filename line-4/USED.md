@@ -1,0 +1,4 @@
+- The supplied bare cave image was the starting wall for mark 01 (line 4 had no earlier records).
+- Read-only Ethereum JSON-RPC at https://ethereum-rpc.publicnode.com, with https://eth.drpc.org as a fallback. It was used to fetch real ZTO-moving transactions, to save `tools/calldata_decoder/zto_swap_tx.json`, and to check that ZTO has 18 decimals. Nothing was signed or sent.
+- The ZTO sample in `line-3/tools/transfer_window/zto_sample.json` provided the first transaction hashes to try the decoder on. Line 3's work is unchanged.
+- ZTO, IMD, the v4 PoolManager and the ZTO/IMD pool id came from the assignment. The pool's hook (0x784ff9a3ac5d88a30bfff6f7f2a270161fbe6000) was found by decoding an on-chain route and checked against the pool id.

@@ -1,0 +1,3 @@
+- The supplied bare cave image was the starting wall for mark 01.
+- ZTO's Ethereum address from this assignment is the default example for `tools/token_identity`.
+- Public Ethereum JSON-RPC is read only; the tool sends no transaction.

@@ -1,0 +1,6 @@
+[
+  {"line": 1, "goal": "Resolve a token address into its on-chain identity and metadata without an ABI or explorer."},
+  {"line": 2, "goal": "Budget Ethereum transaction fees against an explicit spending cap before a worker prepares a transaction."},
+  {"line": 3, "goal": "Reveal concentrated or sudden ERC-20 token movement from bounded, read-only Ethereum Transfer-log windows."},
+  {"line": 4, "goal": "Turn raw Ethereum calldata into a readable, nested account of what a call will do, without the target contract's ABI."}
+]

@@ -1,0 +1,22 @@
+{
+  "name": "The Careful Spender",
+  "image": "https://api.imd.fun/artifacts/9331b973f9b36b5da822c3896088942d3094a134dda90d890d9eab42d5a1b5b0",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Fee Budget"
+    }
+  ]
+}
